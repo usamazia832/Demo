@@ -1,0 +1,2 @@
+include ':app', ':mylibrary222'
+rootProject.name='GitHubDemo'
